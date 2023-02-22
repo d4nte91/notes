@@ -5,6 +5,8 @@ How to start application:
 - Clone this repository
 - In terminal run: mvn spring-boot:run in project directory
 - access: localhost:8080
+
+
 Specification:
 internal h2 db with auto create on startup with import script
 tomcat server, slf4j as logger unit tests in junit
